@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntroSlide</string>
+
+    <string name="slider1_title">Welcome to H2O</string>
+    <string name="slider1_desc">The water for Pure Life </string>
+
+    <string name="slider2_title">Drink More</string>
+    <string name="slider2_desc">healthy body need more drink</string>
+
+    <string name="slider3_title">live happy</string>
+    <string name="slider3_desc">pure water for happy life</string>
+</resources>
